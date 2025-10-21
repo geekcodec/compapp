@@ -1,2 +1,2 @@
-# ChatGPT Comparison App
-This is my dedicated OpenAI Apps SDK project.
+# CompApp
+This is my Apps project.
